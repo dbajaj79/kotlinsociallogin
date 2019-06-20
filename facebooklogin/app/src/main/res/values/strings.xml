@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FaceBook Login Demo</string>
+    <string name="facebook_app_id">FACE_BOOK_APP_ID_HERE</string>
+    <string name="fb_login_protocol_scheme">FACE_SCHEMA_HERE</string>
+</resources>
